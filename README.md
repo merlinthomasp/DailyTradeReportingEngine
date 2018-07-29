@@ -1,4 +1,4 @@
-# TradeReportingEngine
+# DailyTradeReportingEngine
 Execute Reports of settled incoming and outgoing USD amount of trade in the international market.
 
 1. Check If the Settlement Date is a Working Day ?
